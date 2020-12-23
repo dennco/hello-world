@@ -1,2 +1,3 @@
 # hello-world
-Erster Versuch mit GIT 
+Diesmal sage ich 2ter Versuch mit GIT.
+Hier kommt wohl der gante Text rein!
